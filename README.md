@@ -1,6 +1,6 @@
 # Sobre mim 
 - 👋 olá sou a @profdrieli
-- 👀 I’ interessada  em  aprender programação
+- 👀 Estou interessada em  aprender programação
 - 🌱 Atualmente estou  aprendendo no Java e Scratch 
 - 📫 Meu endereço eletrônico é drieli.alves@escola.pr.gov.br
 -  ▶️  Pensamento Computacional 
